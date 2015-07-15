@@ -3,7 +3,7 @@ Trigger input using RESET CV
 
 Trigger output on OUT
 
-To-do: knobs adjust gravity and bounce
+To-do: knobs adjust gravity and bounce, alternative mode where OUT is related to height
 
 
 
