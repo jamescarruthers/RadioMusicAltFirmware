@@ -1,5 +1,4 @@
-Bounce
-
+#### Bounce
 Trigger input using RESET CV
 
 Trigger output on OUT
@@ -8,7 +7,7 @@ To-do: knobs adjust gravity and bounce
 
 
 
-Drum Machine
+#### Drum Machine
 
 Trigger drum 1 using START CV
 
@@ -22,7 +21,7 @@ To-do: sort out bass drum sample, add ability to change volume of each drum, add
 
 
 
-Drum Sequencer
+##### Drum Sequencer
 
 STATION pot = odd divider
 
@@ -34,7 +33,7 @@ To-do: change dividers using CV inputs
 
 
 
-Sampler
+#### Sampler
 
 CV/Audio input using STATION
 
