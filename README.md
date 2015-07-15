@@ -1,3 +1,7 @@
+#### Intro
+
+These are quick and dirty firmwares in various stages of completeness. Source code will follow once I tidy up and release the pot library they use.
+
 #### Bounce
 Trigger input using RESET CV
 
