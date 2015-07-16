@@ -17,7 +17,7 @@ Trigger drum 1 using START CV
 
 Trigger drum 2 using RESET CV
 
-Trigger output on OUT
+Audio output on OUT
 
 Change drums with pots — STATION = drum 1, START = drum 2
 
@@ -37,11 +37,11 @@ To-do: change dividers using CV inputs
 
 
 
-#### CV Sampler
+#### CV/Audio Sampler
 
 CV/Audio input using STATION
 
-Trigger record using RESET
+Gate record using RESET (records for length of gate)
 
 Trigger play using START
 
