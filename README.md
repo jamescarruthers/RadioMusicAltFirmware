@@ -7,7 +7,9 @@ Trigger input using RESET CV
 
 Trigger output on OUT
 
-To-do: knobs adjust gravity and bounce, alternative mode where OUT is related to height
+Control gravity and bounce with station and start pots — start with them somewhere in the middle
+
+To-do: alternative mode where OUT is related to height
 
 
 
