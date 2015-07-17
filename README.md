@@ -9,7 +9,9 @@ Trigger output on OUT
 
 Control gravity and bounce with station and start pots — start with them somewhere in the middle
 
-To-do: alternative mode where OUT is related to height
+Switch between trigger and CV out with the reset button
+
+To-do: play with state of ball when triggered- relate to current environment
 
 
 
