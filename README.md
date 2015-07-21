@@ -69,3 +69,5 @@ CV control of multiplier using STATION CV
 Trigger output using OUT
 
 Tips: Station pot controls multiplier from 1 to 32; Station CV control adds to this 0 to 32. LEDs show current multiplication in binary.
+
+To-do: make the Start pot adjust the maximum number of multiplications.
