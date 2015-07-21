@@ -56,3 +56,16 @@ Trim sample using knobs — STATION = offset, START = length
 Tips: set STATION pot to 0, START pot to 100% to play full length sample. If you're using audio then you need to play about with attenuating and offseting the signal using something like an MI Shades module as the CV inputs on Radio Music are only 0-3v
 
 To-do: reset button to change between one-shot and cycle modes
+
+
+#### Clock Multiplier
+
+Clock input using RESET
+
+Clock multiplier using STATION POT
+
+CV control of multiplier using STATION CV
+
+Trigger output using OUT
+
+Tips: Station pot controls multiplier from 1 to 32; Station CV control adds to this 0 to 32. LEDs show current multiplication in binary.
